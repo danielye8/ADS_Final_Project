@@ -6,7 +6,9 @@ Summary of the notebooks:
 Each notebook name starts with the code number. The code numbers represent:
 1. : EDA and Initial Models: Contains the code for the analysis of the dataset and training and testing of the naive models. 
 2. : Contains the architecture of the Neural Network and its hyperparameter tuning
-3. : Contains the adversarial attacks and defense strategies (This file was used in Google Colab and might need some alternations to work in Jupyter Notebook)
+3. : Contains the adversarial attacks and defense strategies 
+(This file was used in Google Colab and might need some alternations to work in Jupyter Notebook)
+
 Please keep in mind that, that training and testing the final neural network takes about 1 hour on the Virtual Machine. The adversarial examples take approximately 1.5 hours to generate. 
 
 Output CSVs:
