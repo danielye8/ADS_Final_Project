@@ -13,9 +13,10 @@ Please keep in mind that, that training and testing the final neural network tak
 
 Output CSVs:
 
-Like notebooks the Output CSVs have a coded suffix. The code number represents:
+Output csvs are present in the "CSVdata" folder. Like notebooks the Output CSVs have a coded suffix. The code number represents:
 1. : Outputs for the hyperparamter tuning
 2. : Outputs for the adversarial attacks and defenses
 
 Folders:
 1. Archive: Contains notebooks and files that are not relevant anymore
+2. CSVdata: Contains the CSV files of the outputs generated
